@@ -2,3 +2,7 @@ Kotitehtava1/build/
 Kotitehtava1/*.user
 Kotitehtava2/build/
 Kotitehtava2/*.user
+Kotitehtava3/build/
+Kotitehtava3/*.user
+*/build
+*/*.user
