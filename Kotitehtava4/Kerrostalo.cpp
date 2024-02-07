@@ -7,6 +7,11 @@
 Kerrostalo::Kerrostalo()
 {
     cout<<"Kerrostalo luotu"<<endl;
+    cout<<"Maaritellaan koko kerrostalon kaikki asunnot"<<endl;
+    eka_().maaritaAsunnot();
+    toka_().maaritaAsunnot();
+    kolmas_().maaritaAsunnot();
+    neljas_().maaritaAsunnot();
 }
 
 Kerrostalo::~Kerrostalo()

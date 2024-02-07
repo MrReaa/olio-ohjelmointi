@@ -12,6 +12,7 @@ Kerros::~Kerros()
 void Kerros::maaritaAsunnot()
 {
     cout<<"Maaritellaan 4kpl katutason kerrokselta perittyja asuntoja"<<endl;
+    cout<<"Maaritellaan katutason kerrokselta perittyja asuntoja"<<endl;
     as1.maarita(2,100);
     as2.maarita(2,100);
     as3.maarita(2,100);

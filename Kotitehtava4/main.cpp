@@ -16,10 +16,6 @@ int main()
     */
 
     Kerrostalo kokeilu;
-    kokeilu.eka_().maaritaAsunnot();
-    kokeilu.toka_().maaritaAsunnot();
-    kokeilu.kolmas_().maaritaAsunnot();
-    kokeilu.neljas_().maaritaAsunnot();
 
     kokeilu.laskeKulutus(1);
 
