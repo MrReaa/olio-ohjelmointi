@@ -21,11 +21,13 @@ public:
     Kerrostalo();
     ~Kerrostalo();
 
+
+    /* Jos halutaisiin kutsua eka jne. main laitettaisiin nämä.
     Katutaso& eka_() { return eka; }
     Kerros& toka_() { return toka; }
     Kerros& kolmas_() { return kolmas; }
     Kerros& neljas_() { return neljas; }
-
+    */
 
 };
 
