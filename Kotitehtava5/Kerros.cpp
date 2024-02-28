@@ -10,10 +10,6 @@ Kerros::Kerros()
 }
 Kerros::~Kerros()
 {
-    delete as1;
-    delete as2;
-    delete as3;
-    delete as4;
 
 }
 
